@@ -12,7 +12,7 @@ While there were alternatives that were created before; there is no single web a
 <p>Amazon Web Services EC2 - Ubuntu</p>
 <p>Amazon Web Services RD2 - mySQL</p>
 
-<h2>Click <a href="http://kvfood.sozoalvin.com">here</a> for the live server</h2>
+<h2>Click <a href="https://kvserver.sozoalvin.com">here</a> for the live server</h2>
 
 <h2>Instructions on How to Use</h2>
 <h4>Click on image for a direct link to the instructions in PDF format.</h4>
